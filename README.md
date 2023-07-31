@@ -1,6 +1,6 @@
-# App Mode Configurator
+# Start Multiple Apps
 
-App Mode Configurator is a Python GUI application that allows you to configure different modes and associate apps with each mode. You can easily switch between modes and launch all the apps associated with the selected mode in one click.
+Start Multiple Apps is a Python GUI application that allows you to open multiple apps in one click! You can configure different modes and associate apps with each mode. You can easily switch between modes and launch all the apps associated with the selected mode in one click.
 
 ## Features
 
